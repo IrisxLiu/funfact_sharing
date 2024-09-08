@@ -7,7 +7,7 @@ This is a knowledge sharing website.
 - Share fun facts
 - React to existing fun facts
 
-# Build With
+## Build With
 
 - Node.js
 - React
